@@ -1,5 +1,4 @@
-# JavaScript Complete Tutorial
-### TheTestingAcademy | Beginner to Advanced
+# JavaScript Complete Tutorial | Beginner to Advanced
 
 ---
 
