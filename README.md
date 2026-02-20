@@ -1,4 +1,4 @@
-# Learning Playwright Batch
+# Learning Playwright 
 
 Small collection of Playwright example scripts used for learning and experimentation.
 
