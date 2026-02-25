@@ -1,8 +1,0 @@
-
-let username = "Dev";
-let password = " secure123";
-let isAccountLocked = false;
-
-if((username === " Dev" && password === "secure123")&& !isAccountLocked){
-    console.log("Allowed to enter");
-}
