@@ -4,13 +4,13 @@
 // Use an if-else statement to make this determination.
 // year = 2026 , no
 
-let year = 2024;
+let year = 2026;
 
-if(year % 4 == 0){
+if(year % 4 === 0){
     console.log("Leap Year");
-}else if(year % 100 == 0){
+}else if(year % 100 === 0){
     console.log("Not a leap year");
-}else if(year % 400 == 0){
+}else if(year % 400 === 0){
     console.log("Leap Year");
 }else{
     console.log("Not a leap year");
