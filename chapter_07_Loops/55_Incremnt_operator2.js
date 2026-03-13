@@ -34,13 +34,12 @@
 // // a -> 12
 
 
-
-// let a = 10;
-// console.log(++a + ++a);
-// console.log(a);
-
 let a = 10;
+console.log(++a + ++a);
+console.log(a);
+
+let a1 = 10;
 // let r = a--;
-let r2 = --a;
+let r2 = --a1;
 // console.log(r);
 console.log(r2);

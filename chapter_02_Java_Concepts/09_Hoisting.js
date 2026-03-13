@@ -3,7 +3,7 @@
 // console.log(a);
 
 // ----Phase 1: Memory Creation ---
-var a = undefined;
+//var a = undefined;
 
 console.log(a);
 let a = "Rupak";

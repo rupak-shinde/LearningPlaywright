@@ -9,7 +9,7 @@ if(response){
 }
 
 // case 2
-if(response !==null){
+if(response !== null){
 
 }
 

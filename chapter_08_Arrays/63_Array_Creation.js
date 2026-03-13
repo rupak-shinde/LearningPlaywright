@@ -34,6 +34,6 @@ console.log(test);
 console.log(test[0]);
 
 // Array From
-let chars = Array.from('hello'); // ('h','e',','l','l','l','o');
+let chars = Array.from('hello'); // ('h','e',','l','l','o');
  
 console.log(chars);

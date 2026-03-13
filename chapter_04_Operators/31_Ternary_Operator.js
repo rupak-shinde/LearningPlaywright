@@ -4,3 +4,4 @@ let is_pramod_will_go_to_goa = age > 18 ? "Yes, Let go goa!" : "No You are mino 
 
 // Ternary = Condition  ? " true result" : "false result";
 
+console.log(is_pramod_will_go_to_goa);

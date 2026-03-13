@@ -1,4 +1,4 @@
-let name = "Rupak";
+// let name = "Rupak";
 console.log(name);
 
 // CTLR + / - windows for comments

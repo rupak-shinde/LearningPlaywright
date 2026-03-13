@@ -8,7 +8,7 @@ function getUserStatus() {
 }
 
 // Step 2 - Calling of the functions
-getUserStatus(); 2
+getUserStatus(); 
 
 // Note: var is function-scoped, so status is hoisted to
 // the top of getUserStatus(), NOT the global scope.

@@ -4,7 +4,7 @@ if({}) console.log(" Empty object is Truthy") ;
 if([]) console.log("Empty array is Truthy") ;
 
 // false results
-if ("") console.log("Won't print"); // "" -> flasy result
+if ("") console.log("Won't print"); // "" -> falsy result
 if (null) console.log("won't print");
 if (undefined) console.log("won't print");
 if (NaN) console.log("won't print");

@@ -6,5 +6,5 @@ console.log(typeof true ); // boolean
 // type of null -> object 
 console.log(typeof [] ); // -> Object
 
-oohq
+
 

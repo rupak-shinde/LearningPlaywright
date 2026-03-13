@@ -1,4 +1,4 @@
-let count = 42;
+ let count = 42;
 let negative = -100;
 let zero = 0;
 
